@@ -1,0 +1,17 @@
+h1 {
+  text-shadow: 5px 5px 5px powderblue;
+}
+
+.box {
+  border: 2px solid black;
+  width: 200px;
+  height: 100px;
+  padding: 5px;
+  margin-top: 10px;
+  text-align: center;
+  align-content: center;
+  background-image: linear-gradient(to bottom right, red, blue, green, yellow);
+  box-shadow: 10px 10px 10px;
+  /* default: black since text-color is black */
+  box-shadow: 10px 10px 10px palevioletred;
+}
