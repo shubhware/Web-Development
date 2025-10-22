@@ -1,0 +1,24 @@
+.box1{
+    border: 2px solid black;
+    padding: 2px;
+    width:200px;
+    height:100px;
+    text-align: center;
+    align-content:center;
+    /* background-image: linear-gradient(to bottom, red, blue);
+    background-image: linear-gradient(to top, red, blue);
+    background-image: linear-gradient(to right, red, blue);
+    background-image: linear-gradient(to left, red, blue); */
+    background-image: linear-gradient(to bottom right, red, blue);
+}
+
+.box2{
+    margin-top:10px;
+    border: 2px solid black;
+    padding: 2px;
+    width:200px;
+    height:200px;
+    text-align: center;
+    align-content:center;
+    background-image: radial-gradient(circle,yellow,red,green,blue);
+}
